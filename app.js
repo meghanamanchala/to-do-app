@@ -1,9 +1,9 @@
-  
-//targeting the elements
+  //targeting the elements
 const userInput = document.getElementById("input")
 const addBtn = document.getElementById("button")
 const parentTodoContainer = document.getElementById("todolist")
 let listOfTodos = [];
+
 
 
 addBtn.onclick = () =>{
